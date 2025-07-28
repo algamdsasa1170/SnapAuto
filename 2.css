@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f9fb;
+    color: #333;
+    text-align: center;
+}
+header {
+    background-color: #fffc00;
+    padding: 50px 20px;
+}
+header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+header p {
+    font-size: 18px;
+}
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.features {
+    padding: 40px 20px;
+}
+.features ul {
+    list-style: none;
+    padding: 0;
+    font-size: 18px;
+}
+.features li {
+    margin: 10px 0;
+}
+.screenshots {
+    padding: 40px 20px;
+}
+footer {
+    background-color: #eee;
+    padding: 20px;
+    font-size: 14px;
+}
